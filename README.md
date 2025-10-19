@@ -1,5 +1,5 @@
 
-# Variable Distance Tuner
+# View Distance Tuner
 
 
 A simple paper plugin to change server view/simulation distance while live.

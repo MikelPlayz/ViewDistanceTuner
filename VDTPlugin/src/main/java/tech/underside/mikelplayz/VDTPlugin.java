@@ -1,4 +1,4 @@
-package tech.underside.mikelplayz.VDTPlugin;
+package tech.underside.mikelplayz;
 
 import org.bukkit.Bukkit;
 import org.bukkit.World;
@@ -10,12 +10,12 @@ public class VDTPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getLogger().info("VDT Plugin enabled!");
+        getLogger().info("VDT has enabled Successfully. Created by MikelPlayz");
     }
 
     @Override
     public void onDisable() {
-        getLogger().info("VDT Plugin disabled!");
+        getLogger().info("VDT has disabled Successfully.");
     }
 
     @Override
